@@ -1,5 +1,6 @@
 [package]
 name = "rotary-encoder-async"
+description = "An async rotary encoder driver for embedded devices"
 version = "0.1.0"
 edition = "2021"
 authors = ["Sycrosity"]
